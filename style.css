@@ -10,14 +10,6 @@ body{
     background-color: rgb(39,39,39);
 }
 
-section.quem_sou{
-    margin: auto;
-    max-width: 800px;
-    min-width: 300px;
-    display: flex;
-    flex-direction: row;
-}
-
 header h1{
     font-family: 'Bruno Ace SC', cursive;
     padding: 10px;
@@ -25,6 +17,14 @@ header h1{
     text-align: center;
     font-size: 3em;
     margin: 100px;
+}
+
+section.quem_sou{
+    margin: auto;
+    max-width: 800px;
+    min-width: 300px;
+    display: flex;
+    flex-direction: row;
 }
 
 section h2{
