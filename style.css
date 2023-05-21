@@ -25,6 +25,7 @@ section.quem_sou{
     min-width: 300px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 section h2{
